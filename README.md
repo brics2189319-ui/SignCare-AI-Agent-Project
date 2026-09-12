@@ -247,11 +247,10 @@ Use only data collected with the participant's permission. Do not record, publis
 - **Project:** SignCare AI
 - **Project type:** Pahel 2.0 research and evaluation project
 - **Team size:** 4 members
-- **Team member 1:** [enter name]
-- **Team member 2:** [enter name]
-- **Team member 3:** [enter name]
-- **Team member 4:** [enter name]
-- **Course/department:** [enter your course or department]
+- **Team member 1:** Anuradh G. Koli
+- **Team member 2:** Parmar Pruthvirajsinh
+- **Team member 3:** Ziya Boraniya
+- **Team member 4:** Vrundali
+- **Course/department:** B. Tech
 - **Institution:** Gyanmanjari Innovative University
-- **Supervisor:** [enter supervisor name]
 - **Version/date:** 1.0 / 2026-09-12
