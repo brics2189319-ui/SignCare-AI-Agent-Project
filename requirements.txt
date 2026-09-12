@@ -1,0 +1,10 @@
+customtkinter
+opencv-contrib-python==4.11.0.86
+pyttsx3
+Pillow
+deep-translator
+mediapipe==0.10.21
+scikit-learn
+numpy<2
+pandas
+pytest
