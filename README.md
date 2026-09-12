@@ -245,7 +245,8 @@ Use only data collected with the participant's permission. Do not record, publis
 ## Author and Academic Details
 
 - **Project:** SignCare AI
-- **Project type:** Pahel 2.0 research and evaluation project
+- **Project type:** Social impact, accessibility, and communication assistance project
+- **Program:** Pahel 2.0 research and evaluation project
 - **Team size:** 4 members
 - **Team member 1:** Anuradh G. Koli
 - **Team member 2:** Parmar Pruthvirajsinh
