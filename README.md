@@ -178,15 +178,18 @@ Before retraining, review the dataset labels and sample balance. `clean_data.py`
 
 ## Evaluation
 
-Record the result printed by `train_model.py` and replace the placeholders below with measured values from your own experiment.
+The following baseline was measured from the included dataset using a stratified 80/20 split and `random_state=42` for reproducibility. The current `train_model.py` script does not set a random seed, so repeated runs of that script may produce slightly different values.
 
-| Metric            |         Result |
-| ----------------- | -------------: |
-| Test split        |            20% |
-| Number of classes |  [enter value] |
-| Total samples     |  [enter value] |
-| Test accuracy     | [enter value]% |
-| Evaluation date   |   [enter date] |
+| Metric            |     Result |
+| ----------------- | ---------: |
+| Test split        |        20% |
+| Training samples  |      7,360 |
+| Test samples      |      1,840 |
+| Number of classes |         26 |
+| Total samples     |      9,200 |
+| Samples per class |    200-600 |
+| Test accuracy     |     99.95% |
+| Evaluation date   | 2026-09-12 |
 
 Accuracy alone does not describe real-world performance. A stronger evaluation should also report a confusion matrix, per-class precision, recall, F1-score, and performance under different lighting, backgrounds, hand orientations, and users.
 
@@ -243,8 +246,12 @@ Use only data collected with the participant's permission. Do not record, publis
 
 - **Project:** SignCare AI
 - **Project type:** Pahel 2.0 research and evaluation project
-- **Student name:** [enter your name]
+- **Team size:** 4 members
+- **Team member 1:** [enter name]
+- **Team member 2:** [enter name]
+- **Team member 3:** [enter name]
+- **Team member 4:** [enter name]
 - **Course/department:** [enter your course or department]
 - **Institution:** Gyanmanjari Innovative University
 - **Supervisor:** [enter supervisor name]
-- **Version/date:** [enter version and date]
+- **Version/date:** 1.0 / 2026-09-12
